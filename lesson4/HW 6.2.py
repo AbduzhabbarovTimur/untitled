@@ -6,4 +6,6 @@ def gen2():
 
     for el in islice(cycle(list), 10):
         print(el)
+
+
 gen2()

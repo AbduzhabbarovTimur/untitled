@@ -4,4 +4,6 @@ def simple_calc():
     c = float(input('Укажите размер премии - '))
     pay = x * y
     return pay + c
-print(f'Размер заработной платы составил: {simple_calc() }')
+
+
+print(f'Размер заработной платы составил: {simple_calc()}')
