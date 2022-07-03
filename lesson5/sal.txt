@@ -1,0 +1,12 @@
+Golovko 40000
+Karakash 50000
+Gubanova 19000
+Vasev 15000
+Ivanov 19780
+Pavlov 30000
+Vostretsova 56000
+Tkacheva 18000
+Maltsev 10000
+Knots 13000
+
+
